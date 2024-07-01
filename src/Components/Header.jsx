@@ -7,7 +7,7 @@ const Header = () => {
       <div className="flex justify-between gap-6">
         <img className="size-10" src="./img/uixLogo.png" alt="logo" />
         <button className="bg-gradient-to-r from-neutral-800 via-neutral-700 to-gray-600  hover:from-pink-500 hover:to-yellow-500 rounded-lg px-2 py-1 text-white font-RobotoMono">
-          Why UiX?
+          <p>USE CODE: <strong>UIX2024</strong></p>
         </button>
       </div>
 
