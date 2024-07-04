@@ -123,7 +123,9 @@ const Body = () => {
       {/* email sec*/}
 
       <div className="flex flex-col justify-between  gap-6 ">
-        <h1 className="font-PlayFair text-5xl mt-10 font-bold">Leave a comment</h1>
+        <h1 className="font-PlayFair text-5xl mt-10 font-bold">
+          Leave a comment
+        </h1>
         <form className="" action="">
           <div className="font-RobotoMono flex flex-col gap-2   ">
             <input
